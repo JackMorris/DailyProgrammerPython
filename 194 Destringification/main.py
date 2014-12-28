@@ -1,3 +1,5 @@
+# http://www.reddit.com/r/dailyprogrammer/comments/2q2xnc/20141222_challenge_194_easy_destringification/
+
 import re
 
 input_string = input()
